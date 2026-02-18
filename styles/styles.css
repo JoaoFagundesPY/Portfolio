@@ -5,3 +5,19 @@
 #foto-principal {
   height: 300px;
 }
+
+/* Estilizando Links */
+a:link,
+a:visited {
+  color: blue;
+  font-style: italic;
+}
+
+a:hover,
+a:active {
+  color: red;
+}
+
+a {
+  text-decoration: none;
+}
